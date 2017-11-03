@@ -48,6 +48,9 @@ I looked at my kingdom
 I was finally there
 To sit on my iron throne as the Prince of Bel Air
 
+<<<<<<< HEAD
+Then I became the King of Bel Air
+=======
 
 <!-- start slipsum code -->
 
@@ -59,5 +62,9 @@ You see? It's curious. Ted did figure it out - time travel. And when we get back
 
 I like to cha cha.
 
+<<<<<<< HEAD
+>>>>>>> 105755ec132c4775433192a605e2be1898fa30f0
+=======
 Hello World!
 
+>>>>>>> 7639e5f5b1132d5530a736f5e8709bd20e8e21c1
