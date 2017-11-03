@@ -4,7 +4,7 @@ Now, this is a story all about how
 My life got flipped-turned upside down
 And I'd like to take a minute
 Just sit right there
-I'll tell you how I became the prince of a town called Bel Air
+I'll tell you how I became the prince with no hair.
 
 In west Philadelphia born and raised
 On the playground was where I spent most of my days
@@ -48,4 +48,14 @@ I looked at my kingdom
 I was finally there
 To sit on my throne as the Prince of Bel Air
 
+<<<<<<< HEAD
 Then I became the King of Bel Air
+=======
+
+
+
+
+
+I like to cha cha.
+
+>>>>>>> 105755ec132c4775433192a605e2be1898fa30f0
