@@ -4,7 +4,7 @@ Now, this is a story all about how
 My life got flipped-turned upside down
 And I'd like to take a minute
 Just sit right there
-I'll tell you how I became the prince of a town called Bel Air
+I'll tell you how I became the prince with no hair.
 
 In west Philadelphia born and raised
 On the playground was where I spent most of my days
@@ -46,13 +46,31 @@ I pulled up to the house about 7 or 8
 And I yelled to the cabbie 'Yo homes smell ya later'
 I looked at my kingdom
 I was finally there
-To sit on my throne as the Prince of Bel Air
+To sit on my iron throne as the Prince of Bel Air
+
+<<<<<<< HEAD
+Then I became the King of Bel Air
+=======
+
+<!-- start slipsum code -->
+
+You see? It's curious. Ted did figure it out - time travel. And when we get back, we gonna tell everyone. How it's possible, how it's done, what the dangers are. But then why fifty years in the future when the spacecraft encounters a black hole does the computer call it an 'unknown entry event'? Why don't they know? If they don't know, that means we never told anyone. 
+
+<!-- end slipsum code -->
 
 
 
+I like to cha cha cha.
 
-
-
+<<<<<<< HEAD
 I like to cha cha.
 Now, this is a story all about how
 My life got flipped-turned upside down
+=======
+<<<<<<< HEAD
+>>>>>>> 105755ec132c4775433192a605e2be1898fa30f0
+=======
+Hello World!
+
+>>>>>>> 7639e5f5b1132d5530a736f5e8709bd20e8e21c1
+>>>>>>> 99862366de2c101e7b707a6a55f916b4a62e00e7
